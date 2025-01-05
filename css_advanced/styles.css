@@ -1,0 +1,44 @@
+header {
+    text-align: center;
+    background-image: "https://drive.google.com/file/d/1fTMJEKzhwgXqLYkWhxBKUJTTJ3pPluli/view?usp=sharing.png";
+}
+header img[alt="logo"] {
+        align-items: top-right;
+       font-color: FFFFFF;
+       width: 167.02px;
+       height: 29.46px;
+       position: absolute;
+       left: 171.59px;
+       right: 35.02px    
+}
+header a {
+    align-items: horizontal;
+    font: white
+}
+header ul {
+    align-items: right;
+}
+h1 {
+    font: Source Sans Pro;
+    font-weight: bold;
+    color: white;
+    font-size: 120px;
+    text-align: center;
+}
+button {
+    color:blueviolet;
+    text-align: center;
+    padding: 162px 44px;
+    border-radius: 3.7px;
+    box-shadow: 0 4px 6px rgba(71, 70, 70, 0.1);
+
+}
+h2 {
+    font-size: 32;
+    text-align: center;
+    margin: 5px;
+}
+:h2 {
+    color:blueviolet white;
+
+}
