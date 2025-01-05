@@ -1,0 +1,2 @@
+This is CSS Advanced Project- CSS Styling, A webpage from a Design File.
+<img src="https://www.figma.com/design/mz2e9cOVwJQllrXjwxeOHN/Homepage-(Copy)?m=auto&t=97o7blHm9sVDqlQ4-6>" alt="A Figma Webpage Design File">
