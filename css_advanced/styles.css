@@ -33,7 +33,7 @@ button {
     box-shadow: 0 4px 6px rgba(71, 70, 70, 0.1);
 
 }
-h2 {
+div+h2 {
     font-size: 32;
     text-align: center;
     margin: 5px;
@@ -91,4 +91,33 @@ div img:nth-of-type(4) p {
     font: Source Sans Pro;
     font-size: 16;
     font-weight: italic;
+}
+blockquote {
+    background-color: blueviolet;
+    text-align: center;
+}
+img[alt="image"] {
+    align-items: left;
+    border-radius: 5px;
+
+}
+ div img[alt="image"] h3 {
+    font: Source Sans Pro;
+    font-size: 22;
+    font-weight: bold;
+    color: white;
+
+}
+div img[alt="image"] p {
+    font: Source Sans Pro;
+    font-size: 22;
+    font-weight: italic;
+    color: white;
+}
+section+h3 {
+    font: Source Sans Pro;
+    font-size: 32;
+}
+:h3 {
+    
 }
